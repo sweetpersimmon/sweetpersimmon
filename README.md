@@ -1,10 +1,13 @@
 <div align="center">
 
-### Hi there 👋
-  
-![Sweetpersimmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetpersimmon&show_icons=true&theme=react)
-  <br><br>
-  -------
+### 💫 ME 💫
+<a href="https://velog.io/@sweetpersimmon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="mailto:gghdwl1103@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<br><br>
+------
+
+
 ### 🛠 Tech Stack 🛠
   Techs that I've used at least once
   
@@ -16,9 +19,10 @@
   <img src="https://img.shields.io/badge/kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>
 <br><br>
 ----
-### 💫 ME 💫
-<a href="https://velog.io/@sweetpersimmon" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="mailto:gghdwl1103@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+### Hi there 👋
+  
+![Sweetpersimmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetpersimmon&show_icons=true&theme=react)
+  <br><br>
 
 </div>
